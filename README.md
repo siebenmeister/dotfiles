@@ -1,10 +1,10 @@
-# mybash
-My Bash profile
+# dotfiles
+My dotfiles
 
 
 ---
 
-## Skript schreiben:
+## Todo: Install Skript schreiben
 #!/bin/bash
 ...
 
