@@ -2,6 +2,9 @@
 My dotfiles
 
 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
 ---
 
 ## Todo: Install Skript schreiben
@@ -67,3 +70,11 @@ curl -sS https://download.spotify.com/debian/pubkey_6224F9941A8AA6D1.gpg | sudo 
 echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
 
 sudo apt-get update && sudo apt-get install spotify-client -y
+
+## KDE
+Alt + F2 öffnet KRunner - Eine Suchfeldeingabe erscheint mit der Programme gestartet oder Dateien gesucht werden können (Suchmodule)
+
+## KWallet
+KWallet muss beim Stock Debian eingerichtet werden um benutzt werden zu können
+Systemeinstellungen KDE Passwortspeicher
+System Settings KWalletManager
